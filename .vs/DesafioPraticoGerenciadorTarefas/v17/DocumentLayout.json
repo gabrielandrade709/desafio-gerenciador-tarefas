@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05F414A-29E7-4485-AF3C-0122D9EBD1A8}|GerenciadorTarefas\\GerenciadorTarefas.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefas\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05F414A-29E7-4485-AF3C-0122D9EBD1A8}|GerenciadorTarefas\\GerenciadorTarefas.csproj|solutionrelative:gerenciadortarefas\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefes.application\\usecases\\task\\delete\\deletetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|solutionrelative:gerenciadortarefes.application\\usecases\\task\\delete\\deletetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefes.application\\usecases\\task\\\u00F9pdate\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|solutionrelative:gerenciadortarefes.application\\usecases\\task\\\u00F9pdate\\updatetaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefes.application\\usecases\\task\\getbyid\\gettaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|solutionrelative:gerenciadortarefes.application\\usecases\\task\\getbyid\\gettaskbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefas.communication\\responses\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\responses\\responsetaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefes.application\\usecases\\task\\getall\\getalltaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930F9767-0EAD-4B0E-A4D0-BC64EE9DD4C8}|GerenciadorTarefes.Application\\GerenciadorTarefes.Application.csproj|solutionrelative:gerenciadortarefes.application\\usecases\\task\\getall\\getalltaskusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefas.communication\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\enum\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefas.communication\\responses\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\responses\\responsealltaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|c:\\workspace\\curso c# .net\\desafios\\desafiopraticogerenciadortarefas\\gerenciadortarefas.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206BC3D3-5598-489F-8CA1-70A4C6C0EC14}|GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj|solutionrelative:gerenciadortarefas.communication\\responses\\responseshorttaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\Delete\\DeleteTaskUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefes.Application\\UseCases\\Task\\Delete\\DeleteTaskUseCase.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\Delete\\DeleteTaskUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefes.Application\\UseCases\\Task\\Delete\\DeleteTaskUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:40:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\\u00D9pdate\\UpdateTaskUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefes.Application\\UseCases\\Task\\\u00D9pdate\\UpdateTaskUseCase.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\\u00D9pdate\\UpdateTaskUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefes.Application\\UseCases\\Task\\\u00D9pdate\\UpdateTaskUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:37:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseTaskJson.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Responses\\ResponseTaskJson.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Responses\\ResponseTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:31:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetTaskByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\GetById\\GetTaskByIdUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefes.Application\\UseCases\\Task\\GetById\\GetTaskByIdUseCase.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\GetById\\GetTaskByIdUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefes.Application\\UseCases\\Task\\GetById\\GetTaskByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:30:47.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Enum\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Enum\\TaskStatus.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Enum\\TaskStatus.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Enum\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:26:20.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseAllTaskJson.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseAllTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Responses\\ResponseAllTaskJson.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseAllTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Responses\\ResponseAllTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:21:35.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseShortTaskJson.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "RelativeToolTip": "GerenciadorTarefas.Communication\\Responses\\ResponseShortTaskJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:20:24.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllTaskUseCase.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\GetAll\\GetAllTaskUseCase.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefes.Application\\UseCases\\Task\\GetAll\\GetAllTaskUseCase.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefes.Application\\UseCases\\Task\\GetAll\\GetAllTaskUseCase.cs",
+              "RelativeToolTip": "GerenciadorTarefes.Application\\UseCases\\Task\\GetAll\\GetAllTaskUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:19:32.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "GerenciadorTarefas\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Workspace\\Curso C# .Net\\Desafios\\DesafioPraticoGerenciadorTarefas\\GerenciadorTarefas\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "GerenciadorTarefas\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwv0sAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T23:15:28.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
